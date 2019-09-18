@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/custom.lib)(options "")(descr ""))
+  (lib (name ape8800n)(type Legacy)(uri ${KIPRJMOD}/kicad-radio-libraries/symbols/ape8800n.lib)(options "")(descr ""))
+)
